@@ -1,17 +1,85 @@
-<<<<<<< HEAD
-# App-1
-タスク管理アプリ
-=======
-# React + Vite
+# 👊 打倒タスク
+このプロジェクトは2025年7月に作成しました。
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Reactで作成した動画埋め込み用アプリです。
+締切を意識したタスク管理ができます。
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 デモ
 
-## Expanding the ESLint configuration
+- **サイトURL**  
+  [https://yourname-portfolio.vercel.app](https://yourname-portfolio.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 18deb4d (新規ファイル追加)
+- **スクリーンショット**  
+  <img src="my-app/images/sample-task.png" alt="screenshot" width="600">
+
+---
+
+## 🛠 使用技術
+
+- React  
+- Figma（デザイン）
+
+---
+
+## 💡 工夫した点
+
+- 配色に信号機を使うことで、締切までの期間を直感的に把握できる
+- シンプルなUI
+- 削除機能とローカルストレージで最低限の管理ができる
+
+---
+
+## 🚀 セットアップ方法
+
+1. リポジトリをクローン
+
+```bash
+git clone https://github.com/kanikamaster/App1.git
+cd App1
+
+```
+
+２，依存パッケージをインストール
+
+```bash
+npm install
+# または
+yarn install
+
+```
+
+3 開発用サーバーを起動
+
+```bash
+npm start
+# または
+yarn start
+
+```
+
+4 ブラウザで以下にアクセス
+
+```bash
+http://localhost:3000
+
+```
+
+---
+
+## 🖼 ポートフォリオサイトについて
+
+ポートフォリオサイトは別リポジトリで管理しています。  
+以下のリンクをご参照ください。
+
+[ポートフォリオサイト リポジトリはこちら](https://github.com/kanikamaster/Portfolio)
+
+---
+
+## 📌 6. 作者プロフィール
+
+- 名前：山田 太郎（Yamada Taro）
+- 学校：架空大学 情報学部
+- 興味：Webアプリ開発 / UIデザイン / チーム開発
+- GitHub：[github.com/kanikamaster](https://github.com/kanikamaster)
