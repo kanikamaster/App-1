@@ -12,7 +12,7 @@ Reactで作成した動画埋め込み用アプリです。
   [https://yourname-portfolio.vercel.app](https://yourname-portfolio.vercel.app)
 
 - **スクリーンショット**  
-  <img src="my-app/sample-task.png" alt="screenshot" width="600">
+  <img src="sample-task.png" alt="screenshot" width="600">
 
 ---
 
