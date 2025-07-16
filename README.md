@@ -38,34 +38,22 @@ Reactで作成した動画埋め込み用アプリです。
 
 ```bash
 git clone https://github.com/kanikamaster/App1.git
-cd App1
-
+cd my-app
 ```
 
 ２，依存パッケージをインストール
 
 ```bash
 npm install
-# または
-yarn install
-
 ```
 
 3 開発用サーバーを起動
 
 ```bash
-npm start
-# または
-yarn start
-
+npm run dev
 ```
 
-4 ブラウザで以下にアクセス
-
-```bash
-http://localhost:3000
-
-```
+4 ターミナルまたは表示されたURL（例：http://localhost:5173）をクリックしてブラウザで確認
 
 ---
 
