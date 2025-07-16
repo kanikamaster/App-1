@@ -18,7 +18,7 @@ Reactで作成した動画埋め込み用アプリです。
 
 ## 🛠 使用技術
 
-![React](https://img.shields.io/badge/React-✓-61DAFB)
+　　![React](https://img.shields.io/badge/React-✓-61DAFB)
 ![Github](https://img.shields.io/badge/Github-✓-red)
 ![Figma](https://img.shields.io/badge/Figma-✓-a259ff)
 
