@@ -53,8 +53,11 @@ npm install
 npm run dev
 ```
 
-4 ターミナルまたは表示されたURL（例：http ://localhost:5173）をクリックしてブラウザで確認
+4 ターミナルまたは表示されたURLをクリックしてブラウザで確認
 
+```bash
+http ://localhost:5173
+```
 ---
 
 ## 🖼 ポートフォリオサイトについて
